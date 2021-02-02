@@ -1,1 +1,1 @@
-Github csoportmunka támogatása - gyakorló repo
+GitHub csoportmunka támogatása - gyakorló repo
