@@ -1,6 +1,3 @@
 A kedvenc ételeim:
-- csirke pörkölt nokedlivel
-- pizza
-- rakott krumpli
-- hamburger
-- lasagna
+- palacsinta
+- pörkölt
