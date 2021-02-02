@@ -1,3 +1,6 @@
 A kedvenc ételeim:
--pizza
--rakott krumpli
+- pizza
+- rakott krumpli
+- hamburger
+- lasagna
+
